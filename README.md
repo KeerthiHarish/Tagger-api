@@ -20,7 +20,7 @@ Gems used:
 1. [UUID](https://github.com/fnando/ar-uuid): For making id as uuid
 2. [jsonapi-resources](https://github.com/cerebris/jsonapi-resources): For following JSON API standard
 
-Since, API follows JSON API standard, Request body should like this:
+Since, API follows JSON API standard, Request body should be like this:
 
 ```
 POST /api/tags HTTP/1.1
