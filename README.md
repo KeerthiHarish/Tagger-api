@@ -6,13 +6,14 @@ Specification:
 * Rails version: 5.0.2
 
 Routes configured:
-
+```
 Verb    URI Pattern
 GET     /api/tags/:type/:id
 DELETE  /api/tags/:type/:id
 GET     /api/tags(.:format)
 POST    /api/tags(.:format)
 GET     /api/stats(.:format)
+```
 
 Gems used:
 
